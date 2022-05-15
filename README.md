@@ -9,6 +9,9 @@ To develop predictive algorithms and models for factors associated with hospital
 
 ## Team
 Nayara Cristina Da Silva - http://lattes.cnpq.br/5510573560249365
+
 Geórgia das Graças Pena - http://lattes.cnpq.br/4569169833604734
+
 André Ricardo Backes - http://lattes.cnpq.br/8590140337571249
+
 Marcelo Keese Albertini - http://lattes.cnpq.br/1404596833493304
