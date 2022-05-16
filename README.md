@@ -1,5 +1,5 @@
 # dataScienceForHealthCare
-Study of machine learning techniques applied to the health area to minimize negative hospital outcomes in a Brazilian public hospital: Hospital de Clínicas de Uberlândia. Funded by Fundação Amparo Pesquisa Minas Gerais (FAPEMIG) -- a public state's agency for funding research.
+Study of machine learning techniques applied to the health area to minimize negative hospital outcomes in a Brazilian public hospital: Hospital de Clínicas de Uberlândia. Funded by Fundação de Amparo à Pesquisa de Minas Gerais (FAPEMIG) -- a public agency for funding research.
 
 ## Description: 
 The decline in nutritional status during hospitalization, as well as the long hospital stay and high rates of mortality and hospital readmission, are still a reality in many Brazilian hospitals. Artificial intelligence through the Machine Learning (ML) technique can be a potential prediction tool of greater scope than the classic investigation of risk factors in observational studies, and can contribute to minimizing negative outcomes, reducing hospital costs and possibly improving the quality of service provided. 
